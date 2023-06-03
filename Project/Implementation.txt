@@ -1,0 +1,4 @@
+This semester I will be implementing few features as below:
+•	Login as user.
+•	Allow users to set savings goals and track their progress towards achieving them.
+•	Allow users to access educational content and tips on budgeting, investing, and money management to enhance financial literacy.
