@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "563019361838",
+    "project_id": "gamify-f00b3",
+    "storage_bucket": "gamify-f00b3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:563019361838:android:f16aa9225cabb9aba8b9bf",
+        "android_client_info": {
+          "package_name": "com.example.gamify"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "563019361838-gje7lorar3mnu1p2q2nv2kghch8quc90.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_TnWErqN7PH4x7U4p5buKuP3FC06-SfY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "563019361838-gje7lorar3mnu1p2q2nv2kghch8quc90.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
