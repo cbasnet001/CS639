@@ -1,0 +1,2 @@
+Reference youtube video: https://github.com/PhilJay/MPAndroidChart
+API(for chart): https://github.com/PhilJay/MPAndroidChart 
